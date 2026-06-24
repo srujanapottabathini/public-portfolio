@@ -1,6 +1,6 @@
 ## Hi, I'm Srujana 👋
 
-I'm a Salesforce developer based in Columbus, Ohio. I spent about two and a half years at Accenture building and supporting Salesforce solutions on the COX Communications account, and I recently wrapped up an M.S. in Information Technology with a Cybersecurity concentration at Franklin University.
+I'm a Salesforce developer based in Columbus, Ohio. I spent about few years at Accenture building and supporting Salesforce solutions on the COX Communications account, and I recently wrapped up an M.S. in Information Technology with a Cybersecurity concentration at Franklin University.
 
 Lately I've been leaning into the development side of the platform — Apex, LWC, and integrations — and building things end to end instead of just configuring them.
 
